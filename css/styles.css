@@ -1,0 +1,29 @@
+ h1 {
+   text-align: center;
+   color: #361784;
+ }
+
+ img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+
+li {
+  font-family: fantasy;
+  font-weight: 900;
+}
+
+p {
+  line-height: 50px;
+  font-size: 25px;
+  font-family: fantasy;
+}
+
+strong {
+  color: #b22e69;
+}
+
+body {
+  background-color: #49c5d8;
+}
