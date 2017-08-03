@@ -95,6 +95,7 @@ strong {
 
 .evil-wizard-column {
   border: 10px solid black;
+  padding: 10px;
 }
 
 .evil-wizard-column h3 {
