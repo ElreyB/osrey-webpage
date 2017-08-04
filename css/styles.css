@@ -43,32 +43,36 @@ p em {
 strong {
   color: #b22e69;
 }
+/*just used for seeing the bootstrap row*/
+/*.row {
+  border: 2px solid black;
+}*/
 
-.minons p {
-  font-size: 30px;
+#minons p {
+  /*font-size: 30px;*/
   font-style: oblique;
   font-weight: bolder;
 }
 
-.minons h2 {
+.minon-head {
   text-align: center;
   font-size: 40px;
 }
 
-.minon-column {
-  float: left;
+#minons.col-md-4 {
+  /*float: left;
   margin-left: 50px;
   margin-right: 20px;
   margin-bottom: 30px;
-  width: 300px;
+  width: 300px;*/
   border: 10px solid black;
-  padding: 10px;
+  /*padding: 10px;
   height: 2300px;
   font-style: oblique;
-  font-weight: bolder;
+  font-weight: bolder;*/
 }
 
-.minon-column img {
+.minon-img {
   width: 250px;
   height: 250px;
 }
