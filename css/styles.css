@@ -68,18 +68,19 @@ strong {
   border-radius: 15px;
 }
 
+
 /*.generals p {
   font-size: 40px;
   font-style: italic;
   font-weight: bold;
   font-family: monospace;
-}
-.generals h2 {
+}*/
+/*.generals h2 {
   text-align: center;
   font-size: 40px;
-}
+}*/
 
-.general-column {
+/*.general-column {
   float: left;
   margin-left: 150px;
   margin-right: 100px;
@@ -87,21 +88,21 @@ strong {
   border: 10px solid black;
   padding: 10px;
   height: 1350px;
-}
+}*/
 
-.general-column p {
+/*.general-column p {
   font-family: monospace;
   font-style: italic;
   font-weight: bold;
   font-size: 18px;
-}
+}*/
 
-.general-column img {
+.general-img {
   width: 250px;
   height: 250px;
 }
 
-.general-column h3 {
+/*.general-column h3 {
   text-align: center;
   font-size: 30px;
   font-style: italic;
