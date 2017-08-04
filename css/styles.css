@@ -98,17 +98,25 @@ strong {
 }*/
 
 .general-img {
-  width: 250px;
+  display: block;
+  margin: auto;
+  width: 300px;
   height: 250px;
+  border-radius: 15px;
 }
 
-/*.general-column h3 {
+.general-head {
   text-align: center;
   font-size: 30px;
   font-style: italic;
   font-weight: bold;
   font-family: monospace;
-}*/
+}
+
+.panel-body {
+  background-color: #575b08;
+  border: 2px solid black;
+}
 
 #wizard-intro {
   display: inline-block;
