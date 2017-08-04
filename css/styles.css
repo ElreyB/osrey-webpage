@@ -45,7 +45,6 @@ strong {
 /*.row {
   border: 2px solid black;
 }*/
-
 .minons h2 {
   text-align: center;
   font-size: 40px;
@@ -62,8 +61,11 @@ strong {
 }
 
 .minon-img {
+  display: block;
+  margin: auto;
   width: 250px;
   height: 250px;
+  border-radius: 15px;
 }
 
 /*.generals p {
