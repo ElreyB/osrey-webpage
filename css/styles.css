@@ -68,17 +68,17 @@ strong {
   border-radius: 15px;
 }
 
-
-/*.generals p {
+.generals p {
   font-size: 40px;
   font-style: italic;
   font-weight: bold;
   font-family: monospace;
-}*/
-/*.generals h2 {
+}
+
+.generals h2 {
   text-align: center;
   font-size: 40px;
-}*/
+}
 
 /*.general-column {
   float: left;
@@ -116,6 +116,12 @@ strong {
 .panel-body {
   background-color: #575b08;
   border: 2px solid black;
+}
+
+.general-p {
+  font-style: italic;
+  font-weight: bold;
+  font-family: monospace;
 }
 
 #wizard-intro {
