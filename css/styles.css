@@ -41,10 +41,7 @@ p em {
 strong {
   color: #b22e69;
 }
-/*just used for seeing the bootstrap row*/
-/*.row {
-  border: 2px solid black;
-}*/
+
 .minons h2 {
   text-align: center;
   font-size: 40px;
@@ -80,23 +77,6 @@ strong {
   font-size: 40px;
 }
 
-/*.general-column {
-  float: left;
-  margin-left: 150px;
-  margin-right: 100px;
-  width: 300px;
-  border: 10px solid black;
-  padding: 10px;
-  height: 1350px;
-}*/
-
-/*.general-column p {
-  font-family: monospace;
-  font-style: italic;
-  font-weight: bold;
-  font-size: 18px;
-}*/
-
 .general-img {
   display: block;
   margin: auto;
@@ -124,21 +104,17 @@ strong {
   font-family: monospace;
 }
 
-#wizard-intro {
-  display: inline-block;
+.jumbotron {
+  background-color: black;
+  color: white;
 }
 
-.evil-wizard-column {
-  border: 10px solid black;
-  padding: 10px;
-}
-
-.evil-wizard-column h3 {
+.jumbotron h3 {
   text-align: center;
   font-size: 70px;
 }
 
-.evil-wizard-column p {
+.jumbotron p {
   font-size: 50px;
   font-weight: 900;
 }
