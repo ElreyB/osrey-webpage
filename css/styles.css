@@ -55,6 +55,12 @@ strong {
 .minon-head {
   text-align: center;
   font-size: 30px;
+  cursor: pointer;
+  color:#0088cc;
+}
+
+.minon-head:hover {
+  text-decoration: underline;
 }
 
 .minon-img {
@@ -63,6 +69,7 @@ strong {
   width: 250px;
   height: 250px;
   border-radius: 15px;
+  display: none;
 }
 
 .generals p {
